@@ -9,7 +9,7 @@ return {
                 light = "latte",
                 dark = "mocha",
             },
-            dimInactive = { enabled = true, percentage = 0.25 },
+            dim_inactive = { enabled = true, percentage = 0.25 },
             color_overrides = {
                 mocha = {
                     rosewater = "#EA6962",
