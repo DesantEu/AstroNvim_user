@@ -1,4 +1,4 @@
-My dotfiles for [https://astronvim.com/](AstroNvim)
+My dotfiles for [AstroNvim](https://astronvim.com/)
 
 ### Installation
 Back up your config if you have any
